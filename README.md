@@ -1,6 +1,6 @@
-# City-State Ruby Gem
+# Civitas Ruby Gem
 
-The `city-state` gem offers a straightforward way to retrieve lists of states for any given country and cities for any state. It's built on the MaxMind database, making it a reliable source for such data.
+The `civitas` gem offers a straightforward way to retrieve lists of states for any given country and cities for any state. It's built on the MaxMind database, making it a reliable source for such data.
 
 ## Compatibility
 
@@ -22,7 +22,7 @@ This branch (`main`) is compatible with **Ruby 3 and higher**. If you are using 
 Add the gem to your Gemfile:
 
 ```ruby
-gem 'city-state'
+gem 'civitas'
 ```
 
 Then, run:
@@ -162,11 +162,11 @@ The file has to be a ZIP file. And it has to contain a CVS file named `GeoLite2-
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md)
 
-## How this gem was created
+## How the original `city-state` gem was created
 https://learnwithdaniel.com/2015/02/citystate-list-of-countries-cities-and-states-ruby/
 
-## CityState License
-**city-state** is a open source project by Daniel Loureiro with a MIT license. Also, it uses MaxMind open source database.
+## civitas License
+**civitas** is a open source project forked from `city-state` by Daniel Loureiro with a MIT license. Also, it uses MaxMind open source database.
 
 ## MaxMind License
 Database and Contents Copyright (c) 2020 MaxMind, Inc.

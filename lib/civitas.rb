@@ -1,5 +1,5 @@
 require 'uri'
-require "city-state/version"
+require "civitas/version"
 require 'yaml'
 
 module CS

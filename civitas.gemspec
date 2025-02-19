@@ -6,8 +6,8 @@ require 'civitas/version'
 Gem::Specification.new do |spec|
   spec.name          = "civitas"
   spec.version       = CS::VERSION
-  spec.authors       = ["Daniel Loureiro"]
-  spec.email         = ["loureirorg@gmail.com"]
+  spec.authors       = ["Cadu Ribeiro"]
+  spec.email         = ["mail@cadu.dev"]
   spec.summary       = %q{Simple list of cities and states of the world}
   spec.description   = %q{Useful to make forms and validations. It uses MaxMind database.}
   spec.homepage      = "https://github.com/duduribeiro/civitas"

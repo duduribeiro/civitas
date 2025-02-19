@@ -1,6 +1,6 @@
 # Civitas Ruby Gem
 
-The `civitas` gem offers a straightforward way to retrieve lists of states for any given country and cities for any state. It's built on the MaxMind database, making it a reliable source for such data.
+The `civitas` gem offers a straightforward way to retrieve lists of states for any given country and cities for any state. It's built on the MaxMind database, making it a reliable source for such data. It is a fork from https://github.com/thecodecrate/city-state which misses some fixes to run on most recent versions of Ruby.
 
 ## Compatibility
 
